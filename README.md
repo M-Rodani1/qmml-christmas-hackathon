@@ -63,9 +63,6 @@ The key to achieving 2nd place was strategic feature engineering across three ca
 .
 ├── qmml_christmas_hackathon.ipynb    # Main solution notebook
 ├── submission_mohamed_final.csv      # Final predictions
-├── data/
-│   ├── train.csv                     # Training data
-│   └── test.csv                      # Test data
 └── README.md                         # This file
 ```
 
@@ -75,7 +72,7 @@ The key to achieving 2nd place was strategic feature engineering across three ca
 pip install pandas numpy scikit-learn
 ```
 
-2. Ensure data files are in the correct location (train.csv and test.csv)
+2. Ensure data files (train.csv and test.csv) are available in your working directory
 
 3. Run the notebook:
 ```bash
