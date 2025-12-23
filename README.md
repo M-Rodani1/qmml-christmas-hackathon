@@ -1,7 +1,7 @@
 # QMML Christmas Hackathon - 2nd Place Solution
 
 ## Competition Overview
-This repository contains my solution for the QMML Christmas Hackathon, where I achieved **2nd place** in the competition. The challenge was to predict customer return behavior for holiday shopping transactions.
+This repository contains my solution for the Queen mary machine learning society Christmas Hackathon, where I achieved **2nd place** in the competition. The challenge was to predict customer return behavior for holiday shopping transactions.
 
 ## Problem Statement
 Given transaction data from Christmas shopping, predict whether a customer will return a product (`ReturnFlag`). The dataset includes customer demographics, product information, purchase details, and temporal features.
